@@ -1,0 +1,66 @@
+CAPTION
+NAME_ONE
+
+CLUSTER
+
+PARENT_URLMid-Century Inspiration
+Mid-Century Inspiration
+
+MCC_cluster_P_v7.2
+
+http://www.dotandbo.com/collections/mid-century-classics/?utm_source=facebook&utm_medium=pla&utm_term=mid_century_inspiration&utm_content=MCC_cluster_P_v7&utm_campaign=laumcm-s_n_n_2_m_add_mob-tab.04-08-2015&db_dest=mcc&db_unit=d&db_cid=60&db_terms=ofc-30&db_class=mob-tab&db_seg=mcm&db_sku=&c3ch=Facebook&c3nid=laumcm-s_n_n_2_m_add_mob-tab.04-08-2015&db_vref1=MCC_cluster_P_v7&db_vref2=MCC-6&lb=forceMid-Century Inspiration
+Mid-Century Inspiration
+
+MCC_cluster_P_v8.6
+
+http://www.dotandbo.com/collections/mid-century-classics/?utm_source=facebook&utm_medium=pla&utm_term=mid_century_inspiration&utm_content=MCC_cluster_P_v8&utm_campaign=laumcm-s_n_n_2_m_add_mob-tab.04-08-2015&db_dest=mcc&db_unit=d&db_cid=60&db_terms=ofc-30&db_class=mob-tab&db_seg=mcm&db_sku=&c3ch=Facebook&c3nid=laumcm-s_n_n_2_m_add_mob-tab.04-08-2015&db_vref1=MCC_cluster_P_v8&db_vref2=MCC-6&lb=forceMid-Century Inspiration
+Mid-Century Inspiration
+
+MCC_cluster_P_v7.10
+
+http://www.dotandbo.com/collections/mid-century-classics/?utm_source=facebook&utm_medium=pla&utm_term=mid_century_inspiration&utm_content=MCC_cluster_P_v7&utm_campaign=lag15-3p_n_n_0_m_add_mob-tab.04-08-2015&db_dest=mcc&db_unit=d&db_cid=60&db_terms=ofc-30&db_class=mob-tab&db_seg=mcm&db_sku=&c3ch=Facebook&c3nid=lag15-3p_n_n_0_m_add_mob-tab.04-08-2015&db_vref1=MCC_cluster_P_v7&db_vref2=MCC-6&lb=forceMid-Century Inspiration
+Mid-Century Inspiration
+
+MCC_cluster_P_v8.14
+
+http://www.dotandbo.com/collections/mid-century-classics/?utm_source=facebook&utm_medium=pla&utm_term=mid_century_inspiration&utm_content=MCC_cluster_P_v8&utm_campaign=lag15-3p_n_n_0_m_add_mob-tab.04-08-2015&db_dest=mcc&db_unit=d&db_cid=60&db_terms=ofc-30&db_class=mob-tab&db_seg=mcm&db_sku=&c3ch=Facebook&c3nid=lag15-3p_n_n_0_m_add_mob-tab.04-08-2015&db_vref1=MCC_cluster_P_v8&db_vref2=MCC-6&lb=forceMid-Century Inspiration
+Mid-Century Inspiration
+
+MCC_cluster_P_v7.18
+
+http://www.dotandbo.com/collections/mid-century-classics/?utm_source=facebook&utm_medium=pla&utm_term=mid_century_inspiration&utm_content=MCC_cluster_P_v7&utm_campaign=laumcm-s_n_n_2_m_add_mob.04-08-2015&db_dest=mcc&db_unit=d&db_cid=60&db_terms=ofc-30&db_class=mob&db_seg=mcm&db_sku=&c3ch=Facebook&c3nid=laumcm-s_n_n_2_m_add_mob.04-08-2015&db_vref1=MCC_cluster_P_v7&db_vref2=MCC-6&lb=forceMid-Century Inspiration
+Mid-Century Inspiration
+
+MCC_cluster_P_v8.22
+
+http://www.dotandbo.com/collections/mid-century-classics/?utm_source=facebook&utm_medium=pla&utm_term=mid_century_inspiration&utm_content=MCC_cluster_P_v8&utm_campaign=laumcm-s_n_n_2_m_add_mob.04-08-2015&db_dest=mcc&db_unit=d&db_cid=60&db_terms=ofc-30&db_class=mob&db_seg=mcm&db_sku=&c3ch=Facebook&c3nid=laumcm-s_n_n_2_m_add_mob.04-08-2015&db_vref1=MCC_cluster_P_v8&db_vref2=MCC-6&lb=forceMid-Century Inspiration
+Mid-Century Inspiration
+
+MCC_cluster_P_v7.26
+
+http://www.dotandbo.com/collections/mid-century-classics/?utm_source=facebook&utm_medium=pla&utm_term=mid_century_inspiration&utm_content=MCC_cluster_P_v7&utm_campaign=lag15-3p_n_n_0_m_add_mob.04-08-2015&db_dest=mcc&db_unit=d&db_cid=60&db_terms=ofc-30&db_class=mob&db_seg=mcm&db_sku=&c3ch=Facebook&c3nid=lag15-3p_n_n_0_m_add_mob.04-08-2015&db_vref1=MCC_cluster_P_v7&db_vref2=MCC-6&lb=forceMid-Century Inspiration
+Mid-Century Inspiration
+
+MCC_cluster_P_v8.30
+
+http://www.dotandbo.com/collections/mid-century-classics/?utm_source=facebook&utm_medium=pla&utm_term=mid_century_inspiration&utm_content=MCC_cluster_P_v8&utm_campaign=lag15-3p_n_n_0_m_add_mob.04-08-2015&db_dest=mcc&db_unit=d&db_cid=60&db_terms=ofc-30&db_class=mob&db_seg=mcm&db_sku=&c3ch=Facebook&c3nid=lag15-3p_n_n_0_m_add_mob.04-08-2015&db_vref1=MCC_cluster_P_v8&db_vref2=MCC-6&lb=forceMid-Century Inspiration
+Mid-Century Inspiration
+
+MCC_cluster_P_v7.34
+
+http://www.dotandbo.com/collections/mid-century-classics/?utm_source=facebook&utm_medium=pla&utm_term=mid_century_inspiration&utm_content=MCC_cluster_P_v7&utm_campaign=laumcm-s_n_n_2_m_add_des.04-08-2015&db_dest=mcc&db_unit=d&db_cid=60&db_terms=ofc-30&db_class=des&db_seg=mcm&db_sku=&c3ch=Facebook&c3nid=laumcm-s_n_n_2_m_add_des.04-08-2015&db_vref1=MCC_cluster_P_v7&db_vref2=MCC-6&lb=forceMid-Century Inspiration
+Mid-Century Inspiration
+
+MCC_cluster_P_v8.38
+
+http://www.dotandbo.com/collections/mid-century-classics/?utm_source=facebook&utm_medium=pla&utm_term=mid_century_inspiration&utm_content=MCC_cluster_P_v8&utm_campaign=laumcm-s_n_n_2_m_add_des.04-08-2015&db_dest=mcc&db_unit=d&db_cid=60&db_terms=ofc-30&db_class=des&db_seg=mcm&db_sku=&c3ch=Facebook&c3nid=laumcm-s_n_n_2_m_add_des.04-08-2015&db_vref1=MCC_cluster_P_v8&db_vref2=MCC-6&lb=forceMid-Century Inspiration
+Mid-Century Inspiration
+
+MCC_cluster_P_v7.42
+
+http://www.dotandbo.com/collections/mid-century-classics/?utm_source=facebook&utm_medium=pla&utm_term=mid_century_inspiration&utm_content=MCC_cluster_P_v7&utm_campaign=lag15-3p_n_n_0_m_add_des.04-08-2015&db_dest=mcc&db_unit=d&db_cid=60&db_terms=ofc-30&db_class=des&db_seg=mcm&db_sku=&c3ch=Facebook&c3nid=lag15-3p_n_n_0_m_add_des.04-08-2015&db_vref1=MCC_cluster_P_v7&db_vref2=MCC-6&lb=forceMid-Century Inspiration
+Mid-Century Inspiration
+
+MCC_cluster_P_v8.46
+
+http://www.dotandbo.com/collections/mid-century-classics/?utm_source=facebook&utm_medium=pla&utm_term=mid_century_inspiration&utm_content=MCC_cluster_P_v8&utm_campaign=lag15-3p_n_n_0_m_add_des.04-08-2015&db_dest=mcc&db_unit=d&db_cid=60&db_terms=ofc-30&db_class=des&db_seg=mcm&db_sku=&c3ch=Facebook&c3nid=lag15-3p_n_n_0_m_add_des.04-08-2015&db_vref1=MCC_cluster_P_v8&db_vref2=MCC-6&lb=force

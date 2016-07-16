@@ -1,0 +1,19 @@
+Traceback (most recent call last):
+  File "C:\Users\Christopher Scanlin\assorted_python\image_hash_batch.py", line 97, in <module>
+    api_batch.execute()
+  File "C:\Users\Christopher Scanlin\Anaconda\lib\site-packages\facebookads\api.py", line 416, in execute
+    files=files,
+  File "C:\Users\Christopher Scanlin\Anaconda\lib\site-packages\facebookads\api.py", line 270, in call
+    files=files,
+  File "C:\Users\Christopher Scanlin\Anaconda\lib\site-packages\requests\sessions.py", line 447, in request
+    prep = self.prepare_request(req)
+  File "C:\Users\Christopher Scanlin\Anaconda\lib\site-packages\requests\sessions.py", line 378, in prepare_request
+    hooks=merge_hooks(request.hooks, self.hooks),
+  File "C:\Users\Christopher Scanlin\Anaconda\lib\site-packages\requests\models.py", line 306, in prepare
+    self.prepare_body(data, files, json)
+  File "C:\Users\Christopher Scanlin\Anaconda\lib\site-packages\requests\models.py", line 451, in prepare_body
+    (body, content_type) = self._encode_files(files, data)
+  File "C:\Users\Christopher Scanlin\Anaconda\lib\site-packages\requests\models.py", line 151, in _encode_files
+
+    rf = RequestField(name=k, data=fp.read(),
+ValueError: I/O operation on closed file

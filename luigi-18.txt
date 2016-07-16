@@ -1,0 +1,3 @@
+https://httpbin.org/delay/18:
+b'{\n  "args": {}, \n  "data": "", \n  "files": {}, \n  "form": {}, \n  "headers": {\n    "Accept": "*/*", \n    "Accept-Encoding": "gzip, deflate", \n    "Host": "httpbin.org", \n    "User-Agent": "python-requests/2.8.1"\n  }, \n  "origin": "173.228.35.252", \n  "url": "https://httpbin.org/delay/18"\n}\n'
+
